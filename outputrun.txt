@@ -23,7 +23,7 @@ Enter the filename with the dictionary data (include the extension e.g. Spanish.
 Hash Table
   average number of probes:               1.49
   max_run of probes:                      9
-  total PROBES (for 7477 items) :     11157
+  total PROBES (for 7477 items) :     11159
   items NOT hashed (out of 7477):         0
 
 
@@ -234,7 +234,7 @@ Probes|Count of keys
 Enter words to look-up. Enter q to stop.
 READ op:s query:aback
         1 probes
-        Translation: hacia atras;hacia atr¦s,take aback, desconcertar. En facha.;por sopresa, desprevenidamente, de improviso;atra/s[Adverb]
+        Translation: hacia atras;hacia atrÂ¦s,take aback, desconcertar. En facha.;por sopresa, desprevenidamente, de improviso;atra/s[Adverb]
 READ op:s query:horse
         1 probes
         Translation: CABALLO;Cabio;cabio[Noun];el caballo
